@@ -59,9 +59,6 @@ excerpt_separator: "\n\n\n\n"
 gems: [jekyll-paginate]
 paginate: 10
 
-# jekyll-admin
-jekyll_admin:
-
 plugins:
   - jekyll-paginate
   - jekyll-admin
