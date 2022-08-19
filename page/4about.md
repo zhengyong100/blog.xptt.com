@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 icon: heart
 type: page
----
 
+---
 * content
 {:toc}
 
@@ -16,9 +16,6 @@ type: page
 ## 联系我
 
 * GitHub：[zhengyong100](https://github.com/zhengyong100)
-* email：i@xptt.com
-* [Facebook](https://www.facebook.com/zhengyong100)
-* [豆瓣音乐](https://fm.douban.com/songlist/334610#play)
 
 ## 友情链接
 
